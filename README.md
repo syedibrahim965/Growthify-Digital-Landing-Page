@@ -89,7 +89,7 @@ The design is intended to be adapted for:
 
 ## 📷 Preview
 
-![Growthify Landing Page](assets/landing-page.png)
+![Growthify Landing Page](assets/landing-page.jpeg)
 
 ---
 
