@@ -1,114 +1,61 @@
 # Growthify – Digital Landing Page UI
 
-A modern and professional digital marketing agency landing page designed in **Figma**. This project focuses on creating a clean, minimal, and user-friendly interface using strong visual hierarchy, consistent spacing, and conversion-focused sections.
+A modern digital marketing agency landing page concept designed in **Figma** as a personal UI/UX practice project. This design was created to improve my skills in layout design, typography, spacing, and visual hierarchy.
 
 ---
 
-## 📌 Overview
+## Overview
 
-Growthify is a landing page concept created for a fictional digital marketing agency. The design showcases essential sections commonly found on modern agency websites while maintaining a clean and responsive layout.
+Growthify is a fictional digital marketing agency created for design practice. The goal of this project was to design a clean, professional, and visually appealing landing page using modern UI design principles.
 
 ---
 
-## ✨ Features
+## Features
 
-- Modern and minimal UI
-- Professional navigation bar
+- Modern and minimal interface
+- Navigation bar
 - Hero section with call-to-action buttons
 - Marketing services section
-- Business statistics section
+- Statistics section
 - Client testimonials
 - Pricing plans
 - Contact section
-- Why Choose Us section
+- Features section
 - Professional footer
-- Clean typography and spacing
-- Desktop landing page design
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
-- **Figma**
-
----
-
-## 🎯 Design Goals
-
-- Create a clean and modern interface
-- Improve readability with proper visual hierarchy
-- Showcase marketing services effectively
-- Encourage user engagement through clear call-to-action buttons
-- Present pricing plans in an easy-to-understand format
-- Build trust using testimonials and company statistics
+- Figma
 
 ---
 
-## 📷 Preview
+## Design Goals
 
-> Add your exported design image inside the **assets** folder and update the path below.
+- Practice landing page design
+- Improve UI layout and visual hierarchy
+- Create a clean and professional interface
+- Build a portfolio-ready Figma project
 
-```markdown
+---
+
+## Preview
+
 ![Growthify Landing Page](assets/landing-page.png)
-```
 
 ---
 
-## 📑 Sections Included
+## Figma File
 
-- Home
-- Services
-- Portfolio
-- Testimonials
-- Pricing Plans
-- Contact
-- About
-- Hero Banner
-- Marketing Services
-- Company Statistics
-- Customer Reviews
-- Consultation Section
-- Why Choose Growthify
-- Footer
+Add your Figma share link here.
 
 ---
 
-## 🎨 Design Style
-
-- Minimal Design
-- Clean Layout
-- Modern Typography
-- Blue & White Color Palette
-- Card-based Components
-- User-Friendly Interface
-
----
-
-## 📱 Responsive Concept
-
-The design follows modern UI principles and is intended to be adapted for:
-
-- Desktop
-- Tablet
-- Mobile
-
----
-
-## 🔗 Figma Prototype
-
-Paste your Figma share link here.
-
-```
-https://www.figma.com/your-project-link
-```
-
----
-
-## 📂 Project Structure
+## Project Structure
 
 ```
 Growthify-Digital-Landing-Page/
-│
 ├── README.md
 ├── LICENSE
 ├── assets/
@@ -119,19 +66,13 @@ Growthify-Digital-Landing-Page/
 
 ---
 
-## 🚀 Future Improvements
+## Note
 
-- Mobile version
-- Tablet layout
-- Interactive prototype
-- Design system
-- Reusable components
-- Auto Layout implementation
-- Dark mode concept
+This is a **personal practice project** created for learning UI/UX design. The company, branding, and content are fictional and were created solely for educational and portfolio purposes.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Syed Ibrahim M**
 
@@ -141,6 +82,6 @@ Final Year B.E. Computer Science and Engineering Student
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
